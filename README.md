@@ -7,7 +7,7 @@ Username: jd
 Pin: 2222
 Dispalys dollars amount
 
-Demo Video: 
+Demo Video: https://www.loom.com/share/43b63c2677144604b013253d79967b23
 
 
 <img width="1440" alt="Screenshot 2022-11-21 at 1 26 44 AM" src="https://user-images.githubusercontent.com/116849018/203216299-54672c7e-1398-4cdc-a011-f10a3f20cf32.png">
